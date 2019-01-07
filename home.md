@@ -9,6 +9,8 @@ page_sections:
   navigation:
   - link: "/"
     link_text: Home
+  - link: "/blog"
+    link_text: Blog
 - template: navigation-header-w-button
   block: header-2
 - template: simple-header
