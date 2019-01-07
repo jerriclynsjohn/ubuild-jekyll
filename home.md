@@ -5,6 +5,10 @@ date: 2019-01-07 12:30:00 +0000
 page_sections:
 - template: navigation-header
   block: header-1
+  logo: "/uploads/2019/01/07/Logomark.png"
+  navigation:
+  - link: "/"
+    link_text: Home
 - template: navigation-header-w-button
   block: header-2
 - template: simple-header
